@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Signup_Button-label</name>
+   <tag></tag>
+   <elementGuidId>f7d85956-b69e-48ed-abb3-60608e335ecf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9051d247-c681-48f4-ad24-d2bdb6dcc4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button-label</value>
+      <webElementGuid>79a7c611-19b2-493f-88c5-6cbf4ccff6c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-out env-production page-responsive header-overlay home-campaign intent-mouse&quot;]/div[@class=&quot;logged-out env-production page-responsive header-overlay home-campaign&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header-old header-logged-out js-details-container Details position-relative f4 py-3&quot;]/div[@class=&quot;container-xl d-flex flex-column flex-lg-row flex-items-center p-responsive height-full position-relative z-1&quot;]/div[@class=&quot;d-flex flex-justify-between flex-items-center width-full width-lg-auto&quot;]/div[@class=&quot;flex-1 flex-order-2 text-right&quot;]/button[@class=&quot;js-details-target Button--link Button--medium Button d-lg-none color-fg-inherit p-1&quot;]/span[@class=&quot;Button-content&quot;]/span[@class=&quot;Button-label&quot;]</value>
+      <webElementGuid>38956ee9-aceb-477c-9543-98bf42c39db1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::span[2]</value>
+      <webElementGuid>1b5c9c58-51c3-4a3d-907d-0b40fefec4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/following::span[2]</value>
+      <webElementGuid>fde72764-76d5-4433-90f0-dff4266c7aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/preceding::span[1]</value>
+      <webElementGuid>3f47baa4-f2a7-4c4c-b889-6800b31bc68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>eeb9c70e-c6b5-4c1c-b3ce-d8d1ffa221b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
